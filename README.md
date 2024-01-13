@@ -6,6 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🌱 I’m currently learning django framework
+- ⚠  Talks about automation, making processes easier
 - 👯 I’m looking to collaborate on backend development projects
 - 📫 How to reach me: https://ngothoharrison.github.io/
 - 😄 Pronouns: He/ Him
