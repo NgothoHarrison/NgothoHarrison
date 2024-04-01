@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Ngotho Harrison</h1>
+<h1 align="center">Hi 👋, welcome, I'm Ngotho Harrison</h1>
 <h3 align="center">A backend software engineer and Cyber security analyst</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/NgothoHarrison/NgothoHarrison/assets/113780705/c6c012f2-538f-4a7f-b720-14dfa1b86dc6">
